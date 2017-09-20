@@ -1,0 +1,22 @@
+{
+  "name": "grunttest",
+  "version": "1.0.0",
+  "description": "The grunt test",
+  "main": "index.js",
+  "homepage": "http://www.liufeng.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liufeng",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gruntjs/grunt-init-jquery-sample.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
