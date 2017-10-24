@@ -10,7 +10,7 @@
   "author": "liufeng",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-init-jquery-sample.git"
+    "url": "https://github.com/jackliu1990/grunttest.git"
   },
   "license": "ISC",
   "devDependencies": {
