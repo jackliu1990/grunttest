@@ -7,3 +7,4 @@ node_modules/
 *.patch
 /*.html
 .DS_Store
+package-lock
